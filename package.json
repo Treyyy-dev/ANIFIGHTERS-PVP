@@ -1,0 +1,9 @@
+{
+  "name": "anifighters-pvp-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Matchmaking and live shared-boss PvP server for Anifighters (no dependencies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
